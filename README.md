@@ -1,8 +1,16 @@
-<h1 align="left">Hi 👋! My name is Yousef141118</h1>
+<h1 align="left">Hi! My name is Yousef141118</h1>
 
 ###
 
 <h2 align="left">soc analyst</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousef141118&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=yousef141118&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef141118&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -44,6 +52,24 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yousef141118.yousef141118&"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBkeWwzZTJsM2k0dmc1eDgyZHBkZGE4enJoMnhvYWxrc3N2MjYzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/yousef141118/yousef141118/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousef141118/yousef141118/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yousef141118/yousef141118/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yousef141118/yousef141118/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
